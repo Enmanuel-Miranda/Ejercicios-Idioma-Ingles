@@ -1,4 +1,4 @@
-# Ejercicios de Inles
+# Ejercicios de Ingles
 Este es un pequeño repositorio donde se guardo las actividades y ejercicios de Ingles.
 
 ---
