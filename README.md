@@ -1,8 +1,8 @@
-#Ejercicios de Inles
+# Ejercicios de Inles
 Este es un pequeño repositorio donde se guardo las actividades y ejercicios de Ingles.
 
 ---
-##🚀 ¿Cómo ejecutarlos?
+## 🚀 ¿Cómo ejecutarlos?
 Clona el repositorio:
 ```
 git clone https://github.com
